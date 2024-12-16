@@ -1,3 +1,3 @@
 # S3D
 
-# To be released
+To be released soon ~
