@@ -1,3 +1,3 @@
-# s3d
+# S3D
 
-To be released
+# To be released
